@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&" alt="allan122" /></p>
 
-![](https://leetcard.jacoblin.cool/allanalex143?width=500&height=500)
+![](https://leetcard.jacoblin.cool/allanalex143?theme=unicorn)

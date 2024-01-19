@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allan122&show_icons=true&locale=en&layout=compact" alt="allan122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&" alt="allan122" /></p>
+
+![](https://leetcard.jacoblin.cool/allanalex143?width=500&height=500)

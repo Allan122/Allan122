@@ -34,5 +34,5 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-312-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/allanalex143/hackos)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-500%20Hackos-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/allanalex143/hackos)
+[![HackerRank](https://img.shields.io/badge/HackerRank-312%20Hackos-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/allanalex143/hackos)
 

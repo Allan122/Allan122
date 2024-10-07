@@ -32,4 +32,4 @@
 
 ![](https://leetcard.jacoblin.cool/allanalex143?theme=unicorn)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-1600-green)](https://www.hackerrank.com/allanalex143/hackos)
+[![HackerRank](https://img.shields.io/badge/HackerRank-allanalex143-green)](https://www.hackerrank.com/allanalex143/hackos)

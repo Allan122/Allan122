@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&" alt="allan122" /></p>
 
 ![](https://leetcard.jacoblin.cool/allanalex143?theme=unicorn)
+
+![HackerRank](https://img.shields.io/badge/HackerRank-1600-green)

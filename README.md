@@ -1,7 +1,7 @@
 <!-- Premium animated banner (self-hosted in repo) -->
 <p align="center">
   <a href="https://allancalex.io" target="_blank">
-    <img src="https://github.com/Allan122/REPO_NAME/raw/main/banner.gif" alt="animated banner" width="100%" />
+    <img src="https://github.com/Allan122/allan-alex-ds-portfolio/raw/main/banner.gif" alt="animated banner" width="100%" />
   </a>
 </p>
 

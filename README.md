@@ -1,21 +1,21 @@
-<!-- Animated banner: replace the URL below with any other GIF if you want a different motion -->
+<!-- Premium animated banner (self-hosted in repo) -->
 <p align="center">
   <a href="https://allancalex.io" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated-banner" width="100%" />
+    <img src="https://github.com/Allan122/REPO_NAME/raw/main/banner.gif" alt="animated banner" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Allan Cheerakunnil Alex</h1>
-<p align="center"><em>Data Science • Machine Learning • Analytics</em></p>
+<p align="center"><em>Data Science · Machine Learning · Analytics</em></p>
 
 ---
 
 ## 👨‍🎓 About
-I’m a Data Science postgraduate and practitioner from India, focused on turning raw data into actionable insights. I build end-to-end analytics solutions using Python, SQL, and modern BI tooling, and I deploy reproducible projects to production.
+I’m a postgraduate in **Data Science** from India, passionate about transforming data into decisions.  
+I specialize in **Python, SQL, BI tools, and ML workflows**, with hands-on experience in EDA, predictive modeling, and deploying analytics projects.
 
-- 🔭 Building data pipelines, predictive models and deployment workflows.  
-- 🌱 Continuously learning advanced ML, model evaluation and MLOps practices.  
-- 💬 Open to discussing data analysis, visualization, or collaborations.  
+- 🔭 Building pipelines, models, and real-time dashboards.  
+- 🌱 Exploring advanced ML + MLOps.  
 - 📫 Email: **allanalex143@gmail.com**
 
 ---
@@ -34,7 +34,6 @@ I’m a Data Science postgraduate and practitioner from India, focused on turnin
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="postgresql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="html5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="matplotlib" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="36" height="36" alt="tableau" />
@@ -44,28 +43,16 @@ I’m a Data Science postgraduate and practitioner from India, focused on turnin
 ---
 
 ## 📂 Selected Projects
-- **Netflix Dashboard** — Exploratory Data Analysis, KPI design and interactive dashboards (Tableau / Power BI).  
-- **Customer Churn Prediction** — End-to-end model: data cleaning, feature engineering, classification and evaluation.  
-- **World Cup 2023 Analysis** — Story-driven EDA with interactive visualizations and insight summaries.  
-- **Orders Data Analysis** — SQL + Python pipeline for business insights and recommendations.
-
-> 🔗 Link the project titles above to their repos or live demos for easy recruiter access.
+- **Netflix Dashboard** — EDA, KPI design and BI dashboards (Tableau / Power BI).  
+- **Customer Churn Prediction** — Classification model with feature engineering & evaluation.  
+- **World Cup 2023 Analysis** — Story-driven EDA and insights with interactive visuals.  
+- **Orders Data Analysis** — SQL + Python pipeline for actionable business insights.
 
 ---
 
-## 🎓 Education & Certificates
-- MSc (Data Science / AI / ML) — AlmaBetter Innovarsity (Woolf). Certification expected 2026.  
-- Completed professional courses: IBM Data Science, Cisco Data Analytics, Power BI, Python (Udemy), Stanford Online — Intro to Statistics.
-
----
-
-## ✨ Extracurricular & Creative Work
-I run themed content channels that communicate ideas visually — evidence of content strategy, consistency, and audience engagement:
-
-- **Faith_25_17** — Daily interfaith reflections and devotionals.  
-- **Spiritual Armor** — Christian-centered visual and written content.  
-- **GK2025.2** — Bite-sized general knowledge and learning posts.  
-- **Cute Clitters** — AI-generated animal artwork and creative experiments.
+## 🎓 Education & Certifications
+- MSc (Data Science / AI / ML) — AlmaBetter Innovarsity (Woolf). *Certification expected 2026.*  
+- Professional coursework: IBM Data Science, Cisco Data Analytics, Power BI, Python (Udemy), Stanford Online (Statistics).
 
 ---
 
@@ -80,7 +67,8 @@ I run themed content channels that communicate ideas visually — evidence of co
 
 ---
 
-## 🤝 Let’s Connect
-If you'd like to collaborate or discuss opportunities, email **allanalex143@gmail.com** or message me on **LinkedIn**.
+## 🤝 Connect
+I’m open to collaboration, professional opportunities, and knowledge sharing.  
+📫 **allanalex143@gmail.com** | [LinkedIn](https://www.linkedin.com/in/allan-c-alex-024038194/)
 
 ---

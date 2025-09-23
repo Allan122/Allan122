@@ -1,75 +1,36 @@
-<!-- Premium animated banner (self-hosted in repo) -->
-<p align="center">
-  <a href="https://allancalex.io" target="_blank">
-    <img src="https://github.com/Allan122/REPO_NAME/raw/main/banner.gif" alt="animated banner" width="100%" />
-  </a>
-</p>
-
-
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://allancalex.io)
 <h1 align="center">Hi 👋, I'm Allan Cheerakunnil Alex</h1>
-<p align="center"><em>Data Science · Machine Learning · Analytics</em></p>
+<h3 align="center">"Coding, Analyzing, and Dreaming of Data Science from India."</h3>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXEzaWNxenZpN3MyMDhxamFwbTZraW5sdGM5bm82Y3o5ZDExb3dkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
 
-## 👨‍🎓 About
-I’m a postgraduate in **Data Science** from India, passionate about transforming data into decisions.  
-I specialize in **Python, SQL, BI tools, and ML workflows**, with hands-on experience in EDA, predictive modeling, and deploying analytics projects.
+<p align="left"> <a href="https://twitter.com/allancalex1" target="blank"><img src="https://img.shields.io/twitter/follow/allancalex1?logo=twitter&style=for-the-badge" alt="allancalex1" /></a> </p>
 
-- 🔭 Building pipelines, models, and real-time dashboards.  
-- 🌱 Exploring advanced ML + MLOps.  
-- 📫 Email: **allanalex143@gmail.com**
+- 🌱 I’m currently learning **Python,Sql,Github,ChatGPT,Excel,Tableau,PowerBI,Libraries,Statistics,Machine learning "Data Science"**
 
----
+- 💬 Ask me about **Data Science**
 
-## 🔗 Quick Links
+- 📫 How to reach me **allanalex143@gmail.com**
+
+- ⚡ Fun fact **I love hitting the gym regularly to stay active and healthy! 💪🏋️‍♂️**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/allan-c-alex-024038194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Allan-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/Allan122" target="_blank"><img src="https://img.shields.io/badge/GitHub-Allan122-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://leetcode.com/allanalex143/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-allanalex143-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/allanalex143" target="_blank"><img src="https://img.shields.io/badge/HackerRank-allanalex143-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" /></a>
+<a href="https://twitter.com/allancalex1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allancalex1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/allan-c-alex-024038194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-c-alex-024038194/" height="30" width="40" /></a>
+<a href="https://instagram.com/peace_believer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peace_believer3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/allanalex143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/allanalex143/" height="30" width="40" /></a>
+<a href="https://discord.gg/_allanalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_allanalex" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🧰 Skills & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="postgresql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="matplotlib" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="36" height="36" alt="tableau" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="powerbi" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allan122&show_icons=true&locale=en&layout=compact" alt="allan122" /></p>
 
----
-
-## 📂 Selected Projects
-- **Netflix Dashboard** — EDA, KPI design and BI dashboards (Tableau / Power BI).  
-- **Customer Churn Prediction** — Classification model with feature engineering & evaluation.  
-- **World Cup 2023 Analysis** — Story-driven EDA and insights with interactive visuals.  
-- **Orders Data Analysis** — SQL + Python pipeline for actionable business insights.
-
----
-
-## 🎓 Education & Certifications
-- MSc (Data Science / AI / ML) — AlmaBetter Innovarsity (Woolf). *Certification expected 2026.*  
-- Professional coursework: IBM Data Science, Cisco Data Analytics, Power BI, Python (Udemy), Stanford Online (Statistics).
-
----
-
-## 📊 GitHub Metrics
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allan122&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&" alt="streak" />
-</p>
-<p style="clear: both;"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&" alt="allan122" /></p>
 
 ![](https://leetcard.jacoblin.cool/allanalex143?theme=unicorn)
 
----
+[![HackerRank](https://img.shields.io/badge/HackerRank-387%20Hackos-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/allanalex143/hackos)
 
-## 🤝 Connect
-I’m open to collaboration, professional opportunities, and knowledge sharing.  
-📫 **allanalex143@gmail.com** | [LinkedIn](https://www.linkedin.com/in/allan-c-alex-024038194/)
-
----

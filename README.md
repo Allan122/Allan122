@@ -1,6 +1,4 @@
-<a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank">
-<img src="https://i.pinimg.com/originals/9a/22/0e/9a220e3e89a27c16762491c3656c1f2a.gif" alt="Data Science Banner">
-</a>
+<a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank"><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Coding GIF" width="300"></a>
 
 <a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank">
   <img src="https://i.pinimg.com/originals/9a/22/0e/9a220e3e89a27c16762491c3656c1f2a.gif" alt="Data Science Banner" width="100%">

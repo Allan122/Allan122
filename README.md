@@ -34,6 +34,3 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&theme=dark" alt="allan122 github streak" />
 </p>
-```eof
-
-After you commit these changes, your GitHub profile will be updated with a clean, professional banner that will impress any visitor.

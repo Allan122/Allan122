@@ -32,5 +32,5 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allan122&show_icons=true&locale=en&layout=compact&theme=dark" alt="allan122 top languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&theme=dark" alt="allan122 github streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&theme=dark" alt="allan122 github streak" /> -->
 </p>

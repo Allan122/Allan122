@@ -1,7 +1,4 @@
 <a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank"><img src="https://64.media.tumblr.com/18290f3c5b5424584281313e5519d443/tumblr_p1i155A0s71w365gso1_1280.gif" alt="Neural Network GIF" width="300"></a>
-<a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank">
-  <img src="https://i.pinimg.com/originals/9a/22/0e/9a220e3e89a27c16762491c3656c1f2a.gif" alt="Data Science Banner" width="100%">
-</a>
 
 <h1 align="center">Hi 👋, I'm Allan Cheerakunnil Alex</h1>
 <h3 align="center">A Data Scientist passionate about transforming complex data into actionable business insights.</h3>

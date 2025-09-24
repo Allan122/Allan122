@@ -1,4 +1,6 @@
-<a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank"><img src="https://64.media.tumblr.com/18290f3c5b5424584281313e5519d443/tumblr_p1i155A0s71w365gso1_1280.gif" alt="Neural Network GIF" width="300"></a>
+<a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank">
+  <img src="https://i.pinimg.com/originals/9a/22/0e/9a220e3e89a27c16762491c3656c1f2a.gif" alt="Data Science Banner" width="100%">
+</a>
 
 <h1 align="center">Hi 👋, I'm Allan Cheerakunnil Alex</h1>
 <h3 align="center">A Data Scientist passionate about transforming complex data into actionable business insights.</h3>
@@ -7,7 +9,7 @@
   <a href="https://allan-alex-ds-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/allan-c-alex/" target="_blank">
+  <a href="https://www.linkedin.com/in/allan-cheerakunnil-alex-b65593175/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    <a href="mailto:allanalex143@gmail.com">
@@ -30,5 +32,8 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allan122&show_icons=true&locale=en&layout=compact&theme=dark" alt="allan122 top languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&theme=dark" alt="allan122 github streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan122&theme=dark" alt="allan122 github streak" />
 </p>
+```eof
+
+After you commit these changes, your GitHub profile will be updated with a clean, professional banner that will impress any visitor.

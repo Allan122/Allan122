@@ -19,7 +19,7 @@
 
 ---
 
-I am a dedicated Data Scientist with a Master’s in Computer Science, skilled in leveraging **Python, SQL, and Machine Learning** to solve real-world problems. My background in rigorous UPSC exam preparation has honed my analytical abilities, allowing me to approach challenges with discipline and precision. I specialize in the end-to-end data science lifecycle, from data cleaning and exploratory analysis to building predictive models and creating insightful BI dashboards.
+I am a dedicated Data Scientist with a Master’s in Computer Science, skilled in leveraging **Python, SQL, and Machine Learning** to solve real-world problems. My background in rigorous UPSC exam preparation has honed my analytical abilities, allowing me to approach challenges with discipline and precision. I specialize in the end-to-end data science lifecycle, from data cleaning and exploratory analysis to building predictive models.
 
 ### 🛠️ Core Competencies:
 -   **Languages & Databases:** Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, MySQL)

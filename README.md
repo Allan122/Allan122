@@ -45,18 +45,17 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 
 ---
 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Allan122">
-  <img src="https://github-readme-stats.vercel.app/api?username=allan122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Allan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Allan122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="Allan's GitHub Stats" />
   </a>
-  <br>
+  <br><br>
+  
   <a href="https://github.com/Allan122">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan122&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/Allan122">
-  <img src="https://streak-stats.demolab.com?user=allan122&theme=dark&hide_border=true&background=0d1117" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=Allan122&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
 </div>

@@ -20,7 +20,7 @@
     <a href="mailto:allanalex143@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    </p>
+  </p>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 
 I am a **Data Scientist** with a Master’s in Computer Science, focusing on the end-to-end data lifecycle—from rigorous cleaning to deploying predictive models. 
 
-My journey includes a period of intensive preparation for the **UPSC**, which instilled in me a unique level of **discipline, research capability, and analytical depth**. I don't just write code; I analyze the "why" behind the data to solve complex business problems.
+My background includes a period of intensive preparation for the **UPSC**, which instilled in me a unique level of **discipline, research capability, and analytical depth**. I don't just write code; I analyze the "why" behind the data to solve complex business problems.
 
 * 🔭 **I’m currently working on:** Advanced NLP techniques for sentiment analysis.
 * 🌱 **I’m currently learning:** MLOps and Cloud Deployment (AWS).
@@ -49,16 +49,6 @@ My journey includes a period of intensive preparation for the **UPSC**, which in
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 
 </div>
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name 1](LINK_TO_REPO)** | A brief 1-sentence description of the problem you solved. (e.g., Predicted customer churn with 92% accuracy). | ![Python](https://img.shields.io/badge/Python-blue) ![ML](https://img.shields.io/badge/ML-red) |
-| **[Project Name 2](LINK_TO_REPO)** | Brief description focused on business impact or technical complexity. | ![SQL](https://img.shields.io/badge/SQL-orange) ![Tableau](https://img.shields.io/badge/Tableau-yellow) |
-| **[Project Name 3](LINK_TO_REPO)** | Brief description focused on data cleaning or visualization. | ![Pandas](https://img.shields.io/badge/Pandas-purple) |
 
 ---
 

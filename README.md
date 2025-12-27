@@ -43,24 +43,20 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Technical Arsenal
 
 <div align="center">
 
-![Allan's Stats](https://github-readme-stats.vercel.app/api?username=Allan122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_rank=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan122&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-<br>
-
-![Streak](https://streak-stats.demolab.com?user=Allan122&theme=dark&hide_border=true&background=0d1117)
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
 
 </div>
 
+<br>
 
-### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Allan122&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://komarev.com/ghpvc/?username=Allan122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>

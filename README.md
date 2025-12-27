@@ -58,3 +58,9 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 ![Streak](https://streak-stats.demolab.com?user=Allan122&theme=dark&hide_border=true&background=0d1117)
 
 </div>
+
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Allan122&theme=darkhub&no-frame=true&margin-w=15" />
+</div>

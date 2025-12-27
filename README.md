@@ -37,20 +37,24 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 
 | 🏆 Project Name | 📝 Description | 💻 Tech Stack |
 | :--- | :--- | :--- |
-| **[RAG Document Bot](https://github.com/Allan122/Gemini-PDF-Chatbot.git)** | **Live GenAI App.** Chats with PDFs using **Google Gemini 2.0 Flash** & **FAISS**. Optimized for context-aware answers with 99.9% uptime. | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square) |
-| **[Customer Churn Prediction](https://github.com/Allan122/Customer-Churn-Prediction.git)** | **XGBoost Pipeline.** Analyzed 7,000+ records to predict attrition. Optimized for **Recall (55%)** and used **SHAP** for model explainability. | ![XGBoost](https://img.shields.io/badge/XGBoost-EB9F0C?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **[RAG Document Bot](https://github.com/Allan122/Gemini-PDF-Chatbot)** | **Live GenAI App.** Chats with PDFs using **Google Gemini 2.0 Flash** & **FAISS**. Optimized for context-aware answers with 99.9% uptime. | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square) |
+| **[Customer Churn Prediction](https://github.com/Allan122/Customer-Churn-Prediction)** | **XGBoost Pipeline.** Analyzed 7,000+ records to predict attrition. Optimized for **Recall (55%)** and used **SHAP** for model explainability. | ![XGBoost](https://img.shields.io/badge/XGBoost-EB9F0C?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **[Hybrid Rec. Engine](LINK_TO_REPO_HERE)** | **🚧 In Progress.** A hybrid content recommendation engine leveraging **FastAPI** for high-performance backend processing. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
-
----
 
 ---
 
 ### 📈 GitHub Stats
 
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+<div align="center">
+
+![Allan's Stats](https://github-readme-stats.vercel.app/api?username=Allan122&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_rank=true)
+
+<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan122&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Allan122&theme=dark&hide_border=true&background=0d1117)
+<br>
+
+![Streak](https://streak-stats.demolab.com?user=Allan122&theme=dark&hide_border=true&background=0d1117)
+
+</div>

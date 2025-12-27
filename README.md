@@ -54,9 +54,3 @@ I am a dedicated Data Scientist with a Master’s in Computer Science, skilled i
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
 
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Allan122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
